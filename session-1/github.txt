@@ -1,0 +1,2 @@
+order-service: https://hub.docker.com/r/nadafmmdocker/order-service/
+inventory-service: https://hub.docker.com/r/nadafmmdocker/inventory-service/
